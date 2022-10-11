@@ -1,7 +1,7 @@
 # BakaSweeper
 ## MineSweeper but its the dumb version
 This version of the game is written in python then compiled into an executable form.<br />
-***This is only made for educational purposes only!***<br />
+# ***This is only made for self learning purposes only!***
 
 To play the game run BakaSweeper.exe (Don't get suprised if you see the other files named Minesweeper, because that was its original name i just changed it cuz it fits better.)<br />
 ### Controlls are simple:<br />
