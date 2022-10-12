@@ -1,15 +1,15 @@
 # MineSweeper
-## MineSweeper but it's the dumb version.
-This version of the game is written in Python then compiled into an executable form.<br />
-## ***I made this mostly to learn from it not as a fleshed out project.***
+## MineSweeper But it's the dumb version of MineSweeper.
+This version of the game is written in Python and then compiled into an executable form.<br />
+## ***I did this mostly to learn from it, not as a fleshed out project.***
 ### The game grid is 8x8 and contains 10 mines.
-To play the game run MineSweeper.exe (You can find it in the 'dist' folder)<br />
-### Controlls are simple:
-W, A, S, D to move your selection box<br />
-E to dig a hole (Careful with this key, if you dig a mine you lose)<br />
-Q to set a flag (since it's a dumb there are no sprites, the flgas will show up as a red 'F')
-##### In the top left corner you will see the mines left to win.
-##### If the game ends (Either you win or lose) the game stops and you have to close the program and restart it, because I was lazy to do a restart cycle.<br />
+To play the game, run MineSweeper.exe (You can find it in the 'dist' folder)<br />
+### Controlls are simple.
+Use W, A, S, and D to move your selection box.<br />
+E to dig a hole (careful with this key; if you dig a mine, you lose).<br />
+Q to set a flag (Since it's dumb and there are no sprites, the flags will show up as a red 'F').
+##### In the top left corner, you will see the mines left to win.
+##### If the game ends (either you win or lose), the game stops and you have to close the program and restart it, because I was too lazy to do a restart cycle.
 
 
 # Aknakereső
